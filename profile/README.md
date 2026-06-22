@@ -3,7 +3,7 @@
 ### Engineering autonomous workflows, intelligent healthcare systems, and scalable enterprise platforms.
 
 <p align="left">
-  <a href="https://yourwebsite.com"><strong>Website</strong></a> · 
+  <a href="https://zycic.com"><strong>Website</strong></a> · 
   <a href="https://www.linkedin.com/company/zycic"><strong>LinkedIn</strong></a> · 
   <a href="https://clutch.co/profile/zycic"><strong>Clutch Profile</strong></a>
 </p>
@@ -12,7 +12,7 @@
 
 ## 🚀 Who We Are
 
-ZYCIC is a dedicated software engineering agency specializing in vertical AI solutions, custom healthtech platforms, and robust cloud architectures. We bridge the gap between complex data orchestration and seamless user experiences, building production-ready systems for startups and enterprises globally.
+ZYCIC is a dedicated software engineering company specializing in vertical AI solutions, custom healthtech platforms, and robust cloud architectures. We bridge the gap between complex data orchestration and seamless user experiences, building production-ready systems for startups and enterprises globally.
 
 ## 🛠️ Core Technology Stack
 
